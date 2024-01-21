@@ -6,7 +6,7 @@
 
 🎨 Some themes: <a href="https://marketplace.visualstudio.com/publishers/kastorcode">Visual Studio Code</a> | <a href="https://addons.mozilla.org/firefox/user/16990587">Mozilla Firefox</a> | <a href="https://chrome.google.com/webstore/search/kastorcode">Google Chrome</a>
 
-🚧 Android apps: under development...
+▶️ Android apps: <a href="https://play.google.com/store/apps/dev?id=5473691445787144856">Google Play</a>
 
 📄 If you are a recruiter, know more here: <a href="https://github.com/kastorcode/roadmap">Roadmap</a>
 
